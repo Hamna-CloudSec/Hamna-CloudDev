@@ -45,12 +45,4 @@ I officially started my journey using the Ubuntu terminal to navigate my compute
 * Understanding the Linux File System Hierarchy is the foundation for Cloud Dev.
 
 ---
-
-## 🎯 Future Goals
-- [x] Learn how to create files with the `touch` command.
-- [ ] Master the **Nano** text editor for writing multi-line files.
-- [ ] Learn **cp** (copy) and **mv** (move/rename).
-- [ ] Understand **rm** (safe deletion) and File Permissions.
-
----
 # Hamna-CloudDev
