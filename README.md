@@ -1,55 +1,42 @@
-# 🐧 My Linux & Ubuntu Learning Journey
+# 🐧 Hamna | Linux & Cloud Development Journey
 
-Welcome to my progress log! I am learning to master the Linux terminal to become a Cloud Developer. This repository records the commands I am mastering and my daily progress.
+> **Objective:** Master Linux & Bash for Cloud Engineering.
+> **Total Progress:** 2 Days of consistent learning.
 
 ---
 
 ## 🚀 Day 2: File Creation & Viewing
-**Status: In Progress**
+**Status: ✅ Completed**
 
-Today I moved from navigating folders to actually creating and viewing files. I practiced making empty files and reading their content without leaving the terminal.
+Today, I moved from navigating folders to creating and viewing files.
 
 ### 🛠️ New Commands Added
-| Command | Action | What it does (In plain English) |
+| Command | Action | Why it matters |
 | :--- | :--- | :--- |
-| **touch** | Create File | Creates a brand new empty file (e.g., `touch notes.txt`). |
-| **cat** | Concatenate | Displays the text inside a file right on the terminal screen. |
-| **echo** | Write Text | "Echoes" text to the terminal or sends it into a file using `>`. |
-| **ls -la** | Show Hidden | Shows all files, including hidden ones (starting with a dot). |
+| **touch** | Create File | Essential for creating scripts and config files. |
+| **cat** | Concatenate | Quickly verifying file contents in the terminal. |
+| **echo** | Write Text | The first step toward terminal automation. |
 
 ### 📝 Day 2 Notes:
-* **Instant Creation:** `touch` is the fastest way to prepare a file.
-* **The "Quick Peek":** I use `cat` when I just want to read a file quickly without opening an editor.
-* **Practice Task:** I created `hello.txt`, added text using `echo`, and viewed it with `cat`.
+* Used `echo "text" > file.txt` to populate files without an editor.
+* Learned that `ls -la` reveals hidden configuration files (dotfiles).
 
 ---
 
 ## 🛠️ Day 1: Navigation Basics
-**Status: Completed**
+**Status: ✅ Completed**
 
-### Commands Learned:
-| Command | Action | What it does |
-| :--- | :--- | :--- |
-| **pwd** | Print Working Directory | Tells me exactly where I am in the folder system. |
-| **ls** | List | Shows me all the files and folders in my current location. |
-| **cd** | Change Directory | Moves me into a different folder (like "opening" a folder). |
-| **mkdir** | Make Directory | Creates a brand new folder with whatever name I choose. |
-| **clear** | Clear Screen | Wipes the terminal screen clean so I can focus. |
-
-### 📝 Day 1 Notes:
-* The terminal is **case-sensitive** (`Documents` is different from `documents`).
-* Using `cd ..` (with two dots) takes me back one folder.
-* I am navigating the computer entirely without using a mouse.
+* **Mastered:** `pwd`, `ls`, `cd`, `mkdir`, `clear`.
+* **Key Concept:** Understanding the Linux File System Hierarchy.
 
 ---
 
-## 🎯 Future Goals
-- [ ] Master the **Nano** text editor for writing multi-line files.
+## 🎯 Upcoming Goals
+- [ ] Master the **Nano** text editor.
 - [ ] Learn **cp** (copy) and **mv** (move/rename).
-- [ ] Understand how to safely delete files and folders using **rm**.
+- [ ] Understand **rm** (safe deletion) and File Permissions.
 
 # Hamna-CloudDev
-
 
 # 🐧 My Linux & Ubuntu Learning Journey
 
@@ -75,4 +62,5 @@ I have officially started learning Linux using the Ubuntu terminal. This reposit
 ## 🚀 Future Goals
 - [ ] Learn how to create files with the `touch` command.
 - [ ] Learn how to edit files using `nano`.
-- [ ] Understand how to delete files and folders safely.# Hamna-CloudDev
+- [ ] Understand how to delete files and folders safely.
+# Hamna-CloudDev
