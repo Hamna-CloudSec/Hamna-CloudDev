@@ -1,5 +1,56 @@
 # 🐧 My Linux & Ubuntu Learning Journey
 
+Welcome to my progress log! I am learning to master the Linux terminal to become a Cloud Developer.
+
+---
+
+## 🚀 Day 2: File Creation & Viewing
+*Status: In Progress*
+
+Today I moved from navigating folders to actually creating and viewing files.
+
+### 🛠️ New Commands Added
+| Command | Action | What it does (In plain English) |
+| :--- | :--- | :--- |
+| **touch** | Create File | Creates a brand new empty file (e.g., `touch notes.txt`). |
+| **cat** | Concatenate | Displays the text inside a file right on the terminal screen. |
+| **echo** | Write Text | "Echoes" text to the terminal or sends it into a file. |
+| **ls -la** | Show Hidden | Shows all files, including hidden ones. |
+
+### 📝 Day 2 Notes:
+* **Instant Creation:** `touch` is the fastest way to prepare a file.
+* **The "Quick Peek":** I use `cat` when I just want to read a file quickly without opening an editor.
+* **Practice Task:** I created `hello.txt`, added text using `echo`, and viewed it with `cat`.
+
+---
+
+## 🛠️ Day 1: Navigation Basics
+*Status: Completed*
+
+### Commands Learned:
+| Command | Action | What it does |
+| :--- | :--- | :--- |
+| **pwd** | Print Working Directory | Tells me exactly where I am. |
+| **ls** | List | Shows me all the files and folders. |
+| **cd** | Change Directory | Moves me into a different folder. |
+| **mkdir** | Make Directory | Creates a brand new folder. |
+| **clear** | Clear Screen | Wipes the terminal screen clean. |
+
+### 📝 Day 1 Notes:
+* The terminal is **case-sensitive** (`Documents` ≠ `documents`).
+* Using `cd ..` takes me back one folder.
+
+---
+
+## 🎯 Future Goals
+- [ ] Master the **Nano** text editor.
+- [ ] Learn **cp** (copy) and **mv** (move/rename).
+- [ ] Understand how to safely delete files using **rm**.
+# Hamna-CloudDev
+
+
+# 🐧 My Linux & Ubuntu Learning Journey
+
 I have officially started learning Linux using the Ubuntu terminal. This repository is a record of the commands I am mastering and the progress I'm making.
 
 ## 🛠️ Commands I Learned in Class 1
