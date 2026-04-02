@@ -1,21 +1,21 @@
 # 🐧 My Linux & Ubuntu Learning Journey
 
-Welcome to my progress log! I am learning to master the Linux terminal to become a Cloud Developer.
+Welcome to my progress log! I am learning to master the Linux terminal to become a Cloud Developer. This repository records the commands I am mastering and my daily progress.
 
 ---
 
 ## 🚀 Day 2: File Creation & Viewing
-*Status: In Progress*
+**Status: In Progress**
 
-Today I moved from navigating folders to actually creating and viewing files.
+Today I moved from navigating folders to actually creating and viewing files. I practiced making empty files and reading their content without leaving the terminal.
 
 ### 🛠️ New Commands Added
 | Command | Action | What it does (In plain English) |
 | :--- | :--- | :--- |
 | **touch** | Create File | Creates a brand new empty file (e.g., `touch notes.txt`). |
 | **cat** | Concatenate | Displays the text inside a file right on the terminal screen. |
-| **echo** | Write Text | "Echoes" text to the terminal or sends it into a file. |
-| **ls -la** | Show Hidden | Shows all files, including hidden ones. |
+| **echo** | Write Text | "Echoes" text to the terminal or sends it into a file using `>`. |
+| **ls -la** | Show Hidden | Shows all files, including hidden ones (starting with a dot). |
 
 ### 📝 Day 2 Notes:
 * **Instant Creation:** `touch` is the fastest way to prepare a file.
@@ -25,27 +25,29 @@ Today I moved from navigating folders to actually creating and viewing files.
 ---
 
 ## 🛠️ Day 1: Navigation Basics
-*Status: Completed*
+**Status: Completed**
 
 ### Commands Learned:
 | Command | Action | What it does |
 | :--- | :--- | :--- |
-| **pwd** | Print Working Directory | Tells me exactly where I am. |
-| **ls** | List | Shows me all the files and folders. |
-| **cd** | Change Directory | Moves me into a different folder. |
-| **mkdir** | Make Directory | Creates a brand new folder. |
-| **clear** | Clear Screen | Wipes the terminal screen clean. |
+| **pwd** | Print Working Directory | Tells me exactly where I am in the folder system. |
+| **ls** | List | Shows me all the files and folders in my current location. |
+| **cd** | Change Directory | Moves me into a different folder (like "opening" a folder). |
+| **mkdir** | Make Directory | Creates a brand new folder with whatever name I choose. |
+| **clear** | Clear Screen | Wipes the terminal screen clean so I can focus. |
 
 ### 📝 Day 1 Notes:
-* The terminal is **case-sensitive** (`Documents` ≠ `documents`).
-* Using `cd ..` takes me back one folder.
+* The terminal is **case-sensitive** (`Documents` is different from `documents`).
+* Using `cd ..` (with two dots) takes me back one folder.
+* I am navigating the computer entirely without using a mouse.
 
 ---
 
 ## 🎯 Future Goals
-- [ ] Master the **Nano** text editor.
+- [ ] Master the **Nano** text editor for writing multi-line files.
 - [ ] Learn **cp** (copy) and **mv** (move/rename).
-- [ ] Understand how to safely delete files using **rm**.
+- [ ] Understand how to safely delete files and folders using **rm**.
+
 # Hamna-CloudDev
 
 
